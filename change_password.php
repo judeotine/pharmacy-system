@@ -56,7 +56,7 @@
             <div class="row col col-md-12 m-auto" id="change">
               <div class="col col-md-4 form-group float-right"></div>
               <div id="change_button" class="col col-md-4 form-group float-right">
-                <button class="btn btn-warning form-control font-weight-bold" onclick="changePassword();">Reset Password</button>
+                <button class="btn btn-warning form-control font-weight-bold" onclick="changePassword();">Reset</button>
               </div>
               <div id="password_button" class="col col-md-4 form-group float-right">
                 <a href="my_profile.php" class="btn btn-primary form-control font-weight-bold">Profile</a>

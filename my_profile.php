@@ -92,7 +92,7 @@
                 <button class="btn btn-primary form-control font-weight-bold" onclick="edit();">EDIT</button>
               </div>
               <div id="password_button" class="col col-md-4 form-group float-right">
-                <a href="change_password.php" class="btn btn-warning form-control font-weight-bold">Change Password</a>
+                <a href="change_password.php" class="btn btn-warning form-control font-weight-bold">Change</a>
               </div>
             </div>
 
